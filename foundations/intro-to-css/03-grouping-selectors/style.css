@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.First{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.Second{
+    background-color: #ffff00;
+}
+
+.Both{
+    font-size: 28px;
+    font-family: Helvetica, Arial, sans-serif;
+}
